@@ -1,5 +1,5 @@
 config:
-  info: this is a dev config，version 1
+  info: this is a dev config，version 2
 eureka:
   client:
     register-with-eureka: true
